@@ -1,7 +1,7 @@
 <h1 align="center">
   GEPETO
 </h1>
-<p align="center">Machine Learning prediction with web-app for the CHSB</p>
+<p align="center">Machine Learning prediction with Django web-app for the CHSB</p>
 
 ## ⚡️ Quick start
 
